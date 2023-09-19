@@ -1,5 +1,6 @@
 table{
-  border-spacing: zero;
+  border-collapse: collapse;
+  
 }
 th, td {
 padding:25px;
