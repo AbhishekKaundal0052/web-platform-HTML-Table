@@ -1,6 +1,8 @@
 table{
   border-collapse: collapse;
-  
+}
+th {
+  font: white;
 }
 th, td {
 padding:25px;
@@ -10,6 +12,7 @@ tr:nth-child(even){
 }
 tr:first-child{
   background-color:rgb(243, 37, 37);
+  color: white;
 }
 .lunch{
   background-color: white ;
