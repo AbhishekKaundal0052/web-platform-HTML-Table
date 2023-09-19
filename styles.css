@@ -1,0 +1,19 @@
+table{
+  border-spacing: zero;
+}
+th, td {
+padding:15px;
+}
+tr:nth-child(even){
+  background-color:rgb(224, 223, 223)
+}
+tr:first-child{
+  background-color:rgb(243, 37, 37);
+}
+.lunch{
+  background-color: white ;
+font-size: larger;
+}
+caption{
+  font-size: xx-large;
+}
