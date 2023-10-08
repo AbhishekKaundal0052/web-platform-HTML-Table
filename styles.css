@@ -1,5 +1,6 @@
 table{
   border-collapse: collapse;
+  background-color: white;
 }
 th {
   font: white;
@@ -20,4 +21,7 @@ font-size: larger;
 }
 caption{
   font-size: xx-large;
+}
+body{
+  background-color: pink;
 }
